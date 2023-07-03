@@ -6,7 +6,7 @@ import { FaDownload } from "react-icons/fa";
 const Cv = () => {
   const handleDownload = () => {
     const downloadLink = document.createElement("a");
-    downloadLink.href = "../../../../public/musfiquzzaman-resume .pdf";
+    downloadLink.href = "/musfiquzzaman-resume .pdf";
     downloadLink.download = "musfiquzzaman-resume  .pdf";
     downloadLink.click();
   };
