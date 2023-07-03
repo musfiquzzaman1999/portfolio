@@ -1,4 +1,4 @@
-import React from "react";
+
 import Container from "../../../components/Container/Container";
 import resumeImage from "../../../assets/resume.png";
 import {
@@ -29,7 +29,7 @@ const Resume = () => {
             <div>
               <div className="flex item-center gap-10">
                 <div>
-                  <h2 className="text-xl font-semibold mb-2">Sourave Halder</h2>
+                  <h2 className="text-xl font-semibold mb-2">A.K.M Musfiquzzaman</h2>
                   <h3>React Developer</h3>
                 </div>
                 <div className="flex items-center gap-3">
@@ -42,11 +42,7 @@ const Resume = () => {
               <hr className="my-5" />
               <div>
                 <p className="text-lg">
-                  Hi there! My name is Sourave Halder and I am a React developer
-                  with expertise in JavaScript and front-end development.
-                  Skilled in building scalable web applications using React.js
-                  and related technologies. Strong problem-solving abilities and
-                  a passion for staying updated with the latest industry trends.
+                Hello! I'm A.K.M Musfiquzzaman, a React developer with a specialization in JavaScript and front-end development. I have proficiency in creating scalable web applications using React.js and other relevant technologies. I excel in problem-solving and have a keen interest in staying up-to-date with the latest industry trends.
                 </p>
               </div>
             </div>
@@ -58,8 +54,8 @@ const Resume = () => {
                 <h2 className="font-semibold text-xl uppercase mb-2">
                   Education
                 </h2>
-                <p>Govt B.M College, Barishal, Bangladesh</p>
-                <p>BBA Honours 4th year in Management 2017-2018</p>
+                <p>Northern University Bangladesh</p>
+                <p>BSc in Computer Science</p>
               </div>
               <hr className="my-5" />
               <div>
@@ -68,6 +64,7 @@ const Resume = () => {
                 </h2>
                 <p>Bangla: Native</p>
                 <p>English: Comfortable</p>
+                <p>Hindi: Comfortable</p>
               </div>
               <hr className="my-5" />
               <div>
@@ -166,9 +163,7 @@ const Resume = () => {
               <div className="bg-[#16203B] p-5 rounded-md">
                 <h2>Collaboration</h2>
               </div>
-              <div className="bg-[#16203B] p-5 rounded-md">
-                <h2>Problem-solving</h2>
-              </div>
+              
               <div className="bg-[#16203B] p-5 rounded-md">
                 <h2>Adaptability</h2>
               </div>

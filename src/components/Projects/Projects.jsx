@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import  { useEffect, useRef } from "react";
 import Container from "../Container/Container";
 import { motion, useAnimation } from "framer-motion";
 import project1 from "../../assets/project1.png";
@@ -46,10 +46,8 @@ const Projects = () => {
               Let's Check my Projects
             </h2>
             <p className="max-w-2xl mx-auto text-lg">
-              I've been working on some exciting projects lately, showcasing my
-              skills as a developer. From building interactive web applications
-              to creating intuitive user interfaces, my recent projects
-              highlight my passion for creating impactful digital experiences.
+              
+I've been working on some thrilling projects recently, demonstrating my abilities as a developer. From crafting interactive web applications to designing user-friendly interfaces, my recent projects showcase my enthusiasm for creating meaningful digital experiences.
             </p>
           </div>
 
@@ -66,26 +64,23 @@ const Projects = () => {
                 />
               </div>
               <div className="text-gray-200">
-                <h2 className="text-3xl font-bold mb-3">MusicMaestro</h2>
+                <h2 className="text-3xl font-bold mb-3">ExtraLearn</h2>
                 <p className="text-gray-300">
-                  The Music Summer Camp School MERN website is a
-                  mobile-responsive platform with dark mode, role management,
-                  authentication and authorization using Firebase and JWT, and
-                  visually appealing animations. Students can easily enroll in
-                  classes and make payments securely.
+                ExtraLearn,the inclusive online learning platform,offers accessible education with a user friendly
+interface,robust backend,and secure authentication for all.
                 </p>
                 <div className="mt-5">
                   <div className="flex justify-between gap-5">
                     <div className="flex items-center gap-2">
                       <Link
-                        to="https://github.com/souravh093/musicmestro-client"
+                        to="https://github.com/musfiquzzaman1999/Summer-Camp1"
                         target="_blank"
                         className="flex items-center gap-2"
                       >
                         Client <FaGithub />
                       </Link>{" "}
                       <Link
-                        to="https://github.com/souravh093/musicmestro-server"
+                        to="https://github.com/musfiquzzaman1999/Summer-Camp-server1"
                         target="_blank"
                         className="flex items-center gap-2"
                       >
@@ -93,7 +88,7 @@ const Projects = () => {
                       </Link>
                     </div>
                     <Link
-                      to="https://github.com/souravh093/musicmestro-client"
+                      to="https://summer-camp-f4931.web.app/"
                       target="_blank"
                       className="flex items-center gap-2"
                     >
@@ -115,27 +110,23 @@ const Projects = () => {
                 />
               </div>
               <div className="text-gray-200">
-                <h2 className="text-3xl font-bold mb-3">Toy Tree</h2>
+                <h2 className="text-3xl font-bold mb-3">Safari Squad</h2>
                 <p className="text-gray-300">
-                  This responsive web app has conditional navigation, private
-                  routes, user authentication with Firebase, and sections for
-                  Banners, Galleries, Categories, Trending Toys, and Top Rated
-                  Toys. Users can explore, search, add, and view their own toys.
-                  The app also includes a Blog page with FAQs. It's a seamless
-                  and secure experience for toy enthusiasts.
+                This is a toy animals website allows users to explore,purchase, andsell toy cars.It offers a seamless browsing
+experience with a wide section of products.
                 </p>
                 <div className="mt-5">
                   <div className="flex justify-between gap-5">
                     <div className="flex items-center gap-2">
                       <Link
-                        to="https://github.com/souravh093/toy-tree-client"
+                        to="https://github.com/musfiquzzaman1999/marketplace-toy"
                         target="_blank"
                         className="flex items-center gap-2"
                       >
                         Client <FaGithub />
                       </Link>{" "}
                       <Link
-                        to="https://github.com/souravh093/toy-tree-server"
+                        to="https://github.com/musfiquzzaman1999/marketplace-toy-server"
                         target="_blank"
                         className="flex items-center gap-2"
                       >
@@ -143,7 +134,7 @@ const Projects = () => {
                       </Link>
                     </div>
                     <Link
-                      to="https://toy-tree.web.app/"
+                      to="https://toy-market-place-26dab.web.app/"
                       target="_blank"
                       className="flex items-center gap-2"
                     >
@@ -165,33 +156,30 @@ const Projects = () => {
                 />
               </div>
               <div className="text-gray-200">
-                <h2 className="text-3xl font-bold mb-3">Shape Route</h2>
+                <h2 className="text-3xl font-bold mb-3">Plateful</h2>
                 <p className="text-gray-300">
-                  This Chef Recipe project is a responsive web app with login
-                  functionality. It includes a banner section, a chefs section,
-                  and recipe details with a favorite button. The home page is
-                  fully responsive, and users can register and log in via email,
-                  password, or Google/GitHub.
+                This website is designed for food lovers who are passionate about learning cooking.Users can search for
+recipes,but to access and view any recipe,they need to go through an authentication process.
                 </p>
                 <div className="mt-5">
                   <div className="flex justify-between gap-5">
                     <div className="flex items-center gap-2">
                       <Link
-                        to="https://github.com/souravh093/assingnment-10-client"
+                        to="https://github.com/musfiquzzaman1999/chef-recipe"
                         target="_blank"
                         className="flex items-center gap-2"
                       >
                         Client <FaGithub />
                       </Link>{" "}
                       <Link
-                        to="https://github.com/souravh093/assignment-10-server"
+                        to="https://github.com/musfiquzzaman1999/chef-recipe-server"
                         className="flex items-center gap-2"
                       >
                         Server <FaGithub />
                       </Link>
                     </div>
                     <Link
-                      to="https://chip-recipe-client.web.app/"
+                      to="https://chef-recipe-hunter-server.web.app/"
                       target="_blank"
                       className="flex items-center gap-2"
                     >

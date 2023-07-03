@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 import { BsBoxArrowInUpRight } from "react-icons/bs";
 import { motion } from "framer-motion";
 
-const Works = () => {
+const  Works = () => {
   return (
     <div className="py-20 h-auto text-gray-200">
       <div className="text-center bg-[#091530] py-10">
@@ -29,14 +29,11 @@ const Works = () => {
               />
             </div>
             <div>
-              <h2 className="text-4xl font-bold mb-5">MusicMaestro</h2>
+              <h2 className="text-4xl font-bold mb-5">ExtraLearn</h2>
               <p>
                 {" "}
-                The Music Summer Camp School MERN website is a mobile-responsive
-                platform with dark mode, role management, authentication and
-                authorization using Firebase and JWT, and visually appealing
-                animations. Students can easily enroll in classes and make
-                payments securely.
+                ExtraLearn,the inclusive online learning platform,offers accessible education with a user friendly
+interface,robust backend,and secure authentication for all.
               </p>
               <div className="mt-5 flex flex-wrap gap-5">
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
@@ -68,14 +65,14 @@ const Works = () => {
               <div className="mt-5 flex gap-20 items-center text-xl ">
                 <div className="flex items-center gap-2">
                   <Link
-                    to="https://github.com/souravh093/musicmestro-client"
+                    to="https://github.com/musfiquzzaman1999/Summer-Camp1"
                     target="_blank"
                     className="flex items-center gap-2"
                   >
                     Client <FaGithub />
                   </Link>{" "}
                   <Link
-                    to="https://github.com/souravh093/musicmestro-server"
+                    to="https://github.com/musfiquzzaman1999/Summer-Camp-server1"
                     target="_blank"
                     className="flex items-center gap-2"
                   >
@@ -83,7 +80,7 @@ const Works = () => {
                   </Link>
                 </div>
                 <Link
-                  to="https://github.com/souravh093/musicmestro-client"
+                  to="https://summer-camp-f4931.web.app/"
                   target="_blank"
                   className="flex items-center gap-2"
                 >
@@ -103,17 +100,11 @@ const Works = () => {
               />
             </div>
             <div>
-              <h2 className="text-4xl font-bold mb-5">Toy Tree</h2>
+              <h2 className="text-4xl font-bold mb-5">Safari Squad</h2>
               <p>
                 {" "}
-                The web application is a responsive platform that offers
-                conditional navigation, private routes, user authentication via
-                Firebase, and various sections such as Banners, Galleries,
-                Categories, Trending Toys, and Top Rated Toys. Users can explore
-                and search for toys, view their own added toys on the My Toys
-                page, and even add new toys to the application. Additionally,
-                there is a Blog page featuring FAQs. Overall, the application
-                provides a seamless and secure experience for toy enthusiasts.
+                This is a toy animals website allows users to explore,purchase, andsell toy cars.It offers a seamless browsing
+experience with a wide section of products.
               </p>
               <div className="mt-5 flex flex-wrap gap-5">
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
@@ -136,14 +127,14 @@ const Works = () => {
               <div className="mt-5 flex gap-20 items-center text-xl ">
                 <div className="flex items-center gap-2">
                   <Link
-                    to="https://github.com/souravh093/musicmestro-client"
+                    to="https://github.com/musfiquzzaman1999/marketplace-toy"
                     target="_blank"
                     className="flex items-center gap-2"
                   >
                     Client <FaGithub />
                   </Link>{" "}
                   <Link
-                    to="https://github.com/souravh093/musicmestro-server"
+                    to="https://github.com/musfiquzzaman1999/marketplace-toy-server"
                     target="_blank"
                     className="flex items-center gap-2"
                   >
@@ -151,7 +142,7 @@ const Works = () => {
                   </Link>
                 </div>
                 <Link
-                  to="https://github.com/souravh093/musicmestro-client"
+                  to="https://toy-market-place-26dab.web.app/"
                   target="_blank"
                   className="flex items-center gap-2"
                 >
@@ -171,17 +162,11 @@ const Works = () => {
               />
             </div>
             <div>
-              <h2 className="text-4xl font-bold mb-5">Shape Route</h2>
+              <h2 className="text-4xl font-bold mb-5">Plateful</h2>
               <p>
                 {" "}
-                This Chef Recipe project, built with React, React Router Dom,
-                and Firebase, features a responsive navigation bar with login
-                functionality. The web application includes a banner section, a
-                chefs section with six items, and a View Recipes button. Each
-                recipe contains detailed information, such as ingredients and
-                cooking method, along with a favorite button. The home page is
-                fully responsive, and users can register and log in using email
-                and password or through Google and GitHub.
+                This website is designed for food lovers who are passionate about learning cooking.Users can search for
+recipes,but to access and view any recipe,they need to go through an authentication process.
               </p>
               <div className="mt-5 flex flex-wrap gap-5">
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
@@ -210,14 +195,14 @@ const Works = () => {
               <div className="mt-5 flex gap-20 items-center text-xl ">
                 <div className="flex items-center gap-2">
                   <Link
-                    to="https://github.com/souravh093/musicmestro-client"
+                    to="https://github.com/musfiquzzaman1999/chef-recipe"
                     target="_blank"
                     className="flex items-center gap-2"
                   >
                     Client <FaGithub />
                   </Link>{" "}
                   <Link
-                    to="https://github.com/souravh093/musicmestro-server"
+                    to="https://github.com/musfiquzzaman1999/chef-recipe-server"
                     target="_blank"
                     className="flex items-center gap-2"
                   >
@@ -225,7 +210,7 @@ const Works = () => {
                   </Link>
                 </div>
                 <Link
-                  to="https://github.com/souravh093/musicmestro-client"
+                  to="https://github.com/musfiquzzaman1999/chef-recipe-server"
                   target="_blank"
                   className="flex items-center gap-2"
                 >
@@ -236,7 +221,7 @@ const Works = () => {
           </div>
         </div>
       </Container>
-      <Link to="https://github.com/souravh093?tab=repositories" target="_blank" className="flex items-center justify-center mt-10">
+      <Link to="https://github.com/musfiquzzaman1999?tab=repositories" target="_blank" className="flex items-center justify-center mt-10">
         <motion.div whileHover={{scale: 1.1}}>
           <button className="bg-[#16203B] py-4 px-10 rounded-lg hover:bg-[#1b2647]">
             Show more

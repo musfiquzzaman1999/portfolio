@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import  { useEffect, useRef } from "react";
 import Container from "../../../components/Container/Container";
 import { SiReactivex } from "react-icons/si";
 import { AiFillDashboard, AiOutlineMobile } from "react-icons/ai";
@@ -42,15 +42,12 @@ const Services = () => {
           className="grid md:grid-cols-5 gap-5 items-center"
         >
           <h2 className="text-gray-100 text-3xl md:text-5xl col-span-2 font-bold">
-            Expertise Services! Let is Check it out
+          Discover our expert services! Let's explore them together
           </h2>
 
           <p className="text-gray-200 col-span-3 text-lg">
-            These services cater to businesses seeking frontend solutions that
-            leverage the power of React to create exceptional user experiences,
-            responsive websites, stunning interfaces, and scalable applications,
-            backed by expert consulting and support throughout the development
-            process.
+            
+Our services are designed for businesses in need of frontend solutions that utilize React to build outstanding user experiences, responsive websites, beautiful interfaces, and scalable applications. We provide expert consulting and support throughout the entire development process, making it effortless for you to achieve your goals.
           </p>
         </div>
         <div className="grid md:grid-cols-3 mt-16 gap-10">

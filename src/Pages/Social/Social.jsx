@@ -1,5 +1,5 @@
-import React from "react";
-import { FaFacebookF, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
+
+import { FaFacebookF, FaGithub, FaLinkedin } from "react-icons/fa";
 import Container from "../../components/Container/Container";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
@@ -32,7 +32,7 @@ const Social = () => {
           }
           className="w-full bg-[#0A1429] border flex items-center justify-center text-2xl py-6 font-bold border-gray-800 rounded-md cursor-pointer hover:shadow-md"
         >
-          <Link to="https://github.com/souravh093" target="_blank" className=" flex items-center gap-2">
+          <Link to="https://github.com/musfiquzzaman1999" target="_blank" className=" flex items-center gap-2">
             <FaGithub /> Github
           </Link>
         </motion.div>
@@ -48,7 +48,7 @@ const Social = () => {
           }
           className="w-full bg-[#0A1429] border flex items-center justify-center text-2xl py-6 font-bold border-gray-800 rounded-md cursor-pointer hover:shadow-md"
         >
-          <Link to="https://www.linkedin.com/in/sourave-halder-86a360178/" target="_blank" className=" flex items-center gap-2">
+          <Link to="https://www.linkedin.com/in/musfiquzzaman/" target="_blank" className=" flex items-center gap-2">
             <FaLinkedin /> Linkedin
           </Link>
         </motion.div>
@@ -66,7 +66,7 @@ const Social = () => {
           }
           className="w-full bg-[#0A1429] border flex items-center justify-center text-2xl py-6 font-bold border-gray-800 rounded-md cursor-pointer hover:shadow-md"
         >
-          <Link to="https://www.facebook.com/profile.php?id=100012269386584" target="_blank" className=" flex items-center gap-2">
+          <Link to="https://www.facebook.com/profile.php?id=100028106873866" target="_blank" className=" flex items-center gap-2">
             <FaFacebookF /> Facebook
           </Link>
         </motion.div>

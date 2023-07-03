@@ -1,4 +1,4 @@
-import React from "react";
+
 import Container from "../../../components/Container/Container";
 import { FaFacebook, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
@@ -9,34 +9,29 @@ const Footer = () => {
         <div className="flex flex-wrap justify-between">
           <div className="w-full md:w-1/3 mb-4 md:mb-0">
             <h4 className="text-white text-lg font-semibold mb-4">Contact</h4>
-            <p className="text-gray-400 mb-2">Email: souravehalder925@gmail.com</p>
-            <p className="text-gray-400 mb-2">Phone: +88 01307628955</p>
+            <p className="text-gray-400 mb-2">Email: musfiquzzaman1999@gmail.com</p>
+            <p className="text-gray-400 mb-2">Phone: +88 01798044229</p>
           </div>
           <div className="w-full md:w-1/3 mb-4 md:mb-0">
             <h4 className="text-white text-lg font-semibold mb-4">
               Social Media
             </h4>
             <div className="flex space-x-4">
+              
               <a
-                href="#"
-                className="text-gray-400 hover:text-white transition duration-300"
-              >
-                <FaTwitter />
-              </a>
-              <a
-                href="#"
+                href="https://www.linkedin.com/in/musfiquzzaman/"
                 className="text-gray-400 hover:text-white transition duration-300"
               >
                 <FaLinkedin />
               </a>
               <a
-                href="#"
+                href="https://github.com/musfiquzzaman1999"
                 className="text-gray-400 hover:text-white transition duration-300"
               >
                 <FaGithub />
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=100028106873866"
                 className="text-gray-400 hover:text-white transition duration-300"
               >
                 <FaFacebook />
@@ -68,7 +63,7 @@ const Footer = () => {
         <hr className="border-gray-700 my-8" />
         <div className="text-center">
           <p className="text-gray-400">
-            &copy; 2023 Sourave. All rights reserved.
+            &copy; 2023 Musfiquzzaman. All rights reserved.
           </p>
         </div>
       </Container>
