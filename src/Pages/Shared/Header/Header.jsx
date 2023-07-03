@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import Container from "../../../components/Container/Container";
 import { Link as RouterLink } from "react-router-dom";
 import { Link as ScrollLink } from "react-scroll";
 import { FaBars } from "react-icons/fa";
 import { MdClose } from "react-icons/md";
-import logo from '../../../assets/logo.svg';
+import logo from '../../../assets/logo.png';
 
 
 const Header = () => {
@@ -43,7 +43,7 @@ const Header = () => {
                 className="uppercase cursor-pointer flex items-center gap-3 text-2xl text-gray-100"
               >
                 <img width={50} src={logo} alt="logo" />
-                <h2>Sourave.</h2>
+                
               </ScrollLink>
             </div>
 

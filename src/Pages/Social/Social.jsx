@@ -53,21 +53,7 @@ const Social = () => {
           </Link>
         </motion.div>
 
-        <motion.div
-          whileHover={{ scale: 1.1 }}
-          style={styles.darkButton}
-          onMouseEnter={(e) =>
-            (e.target.style.boxShadow = styles.darkButtonHover.boxShadow)
-          }
-          onMouseLeave={(e) =>
-            (e.target.style.boxShadow = styles.darkButton.boxShadow)
-          }
-          className="w-full bg-[#0A1429] border flex items-center justify-center text-2xl py-6 font-bold border-gray-800 rounded-md cursor-pointer hover:shadow-md"
-        >
-          <Link to="https://twitter.com/SouraveWeb" target="_blank" className=" flex items-center gap-2">
-            <FaTwitter /> Twitter
-          </Link>
-        </motion.div>
+      
 
         <motion.div
           whileHover={{ scale: 1.1 }}
