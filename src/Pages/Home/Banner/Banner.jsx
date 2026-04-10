@@ -35,9 +35,10 @@ const Banner = () => {
             <h2 className="text-gray-100 font-bold text-4xl md:text-6xl leading-tight">
               Hey, I am <br />  Musfiquzzaman 
             </h2>
-            <h2 className="text-gray-100 font-bold text-4xl md:text-4xl leading-tight">React Developer</h2>
+            <h2 className="text-gray-100 font-bold text-4xl md:text-4xl leading-tight">Full Stack Developer</h2>
             <p className="text-gray-200 my-5 text-lg font-semibold">
-            Harnessing the true potential of the internet with React: Creating captivating and modern digital experiences.
+            Harnessing the true potential of the internet with React and Python to build modern, dynamic, and impactful digital experiences.
+
             </p>
             <button
               onClick={handleDownload}

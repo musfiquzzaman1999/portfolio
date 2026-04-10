@@ -25,7 +25,7 @@ const Cv = () => {
           </div>
           <div>
             <h3 className="max-w-lg md:text-xl mb-5">
-              I am a Frontend Web Developer. Who are excited about unique ideas
+              I am a Full Stack Developer. Who are excited about unique ideas
               and help
             </h3>
             <button onClick={handleDownload} className="bg-[#DAED1A] text-gray-700 px-5 py-4 flex items-center gap-2 rounded-md hover:bg-[#dae766] transition duration-300 shadow-md hover:text-gray-700">

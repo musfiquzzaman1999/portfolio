@@ -42,12 +42,13 @@ const Services = () => {
           className="grid md:grid-cols-5 gap-5 items-center"
         >
           <h2 className="text-gray-100 text-3xl md:text-5xl col-span-2 font-bold">
-          Discover our expert services! Let's explore them together
+          Discover my expert services! Let's explore them together
           </h2>
 
           <p className="text-gray-200 col-span-3 text-lg">
             
-Our services are designed for businesses in need of frontend solutions that utilize React to build outstanding user experiences, responsive websites, beautiful interfaces, and scalable applications. We provide expert consulting and support throughout the entire development process, making it effortless for you to achieve your goals.
+My services are designed for businesses in need of full-stack solutions using React, Python, and Django to build outstanding user experiences, responsive websites, beautiful interfaces, and scalable applications. I provide expert development, consulting, and support throughout the entire development process, making it effortless for you to achieve your goals.
+
           </p>
         </div>
         <div className="grid md:grid-cols-3 mt-16 gap-10">
@@ -58,15 +59,13 @@ Our services are designed for businesses in need of frontend solutions that util
                 <SiReactivex className="text-5xl text-[#DAED1A]" />
               </div>
               <h2 className="text-2xl font-semibold text-gray-200">
-                Custom React Development Solutions
+                Custom Full-Stack Development Solutions
               </h2>
               <p className="text-gray-200 my-5">
-                Crafting tailored React applications that meet your unique
-                business needs with precision and elegance.
+                Crafting tailored web applications using React, Python, and Django that meet your business needs with precision, scalability, and modern design.
+
               </p>
-              <Link className="text-gray-200 flex items-center gap-2">
-                Learn More <BsArrowUpRight />
-              </Link>
+              
             </Tilt>
           </div>
 
@@ -77,15 +76,12 @@ Our services are designed for businesses in need of frontend solutions that util
                 <AiOutlineMobile className="text-5xl text-[#DAED1A]" />
               </div>
               <h2 className="text-2xl font-semibold text-gray-200">
-                Responsive React Web Development
+                Responsive Full-Stack Web Development
               </h2>
               <p className="text-gray-200 my-5">
-                Building responsive and mobile-friendly websites using React to
-                ensure optimal performance across devices.
+                Building responsive and mobile-friendly web applications using React, Python, and Django to ensure optimal performance across all devices.
               </p>
-              <Link className="text-gray-200 flex items-center gap-2">
-                Learn More <BsArrowUpRight />
-              </Link>
+              
             </Tilt>
           </div>
 
@@ -96,15 +92,13 @@ Our services are designed for businesses in need of frontend solutions that util
                 <AiFillDashboard className="text-5xl text-[#DAED1A]" />
               </div>
               <h2 className="text-2xl font-semibold text-gray-200">
-                React Performance Optimization
+                Full-Stack Performance Optimization
               </h2>
               <p className="text-gray-200 my-5">
-                Optimizing React applications for enhanced speed and
-                performance, ensuring smooth interactions and minimal load times
+               Optimizing applications built with React, Python, and Django to ensure faster load times, smooth user interactions, and overall high performance and scalability.
+
               </p>
-              <Link className="text-gray-200 flex items-center gap-2">
-                Learn More <BsArrowUpRight />
-              </Link>
+              
             </Tilt>
           </div>
         </div>

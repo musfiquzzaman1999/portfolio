@@ -33,16 +33,16 @@ const Resume = () => {
                   <h3>React Developer</h3>
                 </div>
                 <div className="flex items-center gap-3">
-                  <h1 className="text-5xl font-bold text-[#DBEE19]">6</h1>
+                  <h1 className="text-5xl font-bold text-[#DBEE19]">3</h1>
                   <p>
-                    Month <br /> Experience
+                    years <br /> Experience
                   </p>
                 </div>
               </div>
               <hr className="my-5" />
               <div>
                 <p className="text-lg">
-                Hello! I'm A.K.M Musfiquzzaman, a React developer with a specialization in JavaScript and front-end development. I have proficiency in creating scalable web applications using React.js and other relevant technologies. I excel in problem-solving and have a keen interest in staying up-to-date with the latest industry trends.
+                Hello! I’m A K M Musfiquzzaman, a Full-Stack Developer specializing in React, JavaScript, Python, and Django. I build scalable, responsive, and modern web applications using JavaScript and backend technologies to deliver complete end-to-end solutions. I’m passionate about problem-solving and continuously learning new technologies to stay updated with industry trends.
                 </p>
               </div>
             </div>
@@ -99,6 +99,15 @@ const Resume = () => {
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
                   React
+                </span>
+                <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
+                   Python
+                </span>
+                <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
+                  Django
+                </span>
+                <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
+                  Postgresql
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
                   Firebase

@@ -29,34 +29,28 @@ const  Works = () => {
               />
             </div>
             <div>
-              <h2 className="text-4xl font-bold mb-5">ExtraLearn</h2>
+              <h2 className="text-4xl font-bold mb-5">Bongo Shoes</h2>
               <p>
                 {" "}
-                ExtraLearn,the inclusive online learning platform,offers accessible education with a user friendly
-interface,robust backend,and secure authentication for all.
+                BongoShoes is an online footwear brand offering stylish, comfortable, and affordable shoes for men and women. The platform features a wide range of casual and sporty footwear designed for everyday wear, combining modern design with comfort and durability.
+
               </p>
               <div className="mt-5 flex flex-wrap gap-5">
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
                   React
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  React Router
+                  Python
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  Firebase
+                  Django
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  MongoDB
+                  Postgresql
                 </span>
-                <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  JWT
-                </span>
-                <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  React Query
-                </span>
-                <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  Axios
-                </span>
+                
+                
+                
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
                   TailwindCSS
                 </span>
@@ -64,23 +58,9 @@ interface,robust backend,and secure authentication for all.
 
               <div className="mt-5 flex gap-20 items-center text-xl ">
                 <div className="flex items-center gap-2">
-                  <Link
-                    to="https://github.com/musfiquzzaman1999/Summer-Camp1"
-                    target="_blank"
-                    className="flex items-center gap-2"
-                  >
-                    Client <FaGithub />
-                  </Link>{" "}
-                  <Link
-                    to="https://github.com/musfiquzzaman1999/Summer-Camp-server1"
-                    target="_blank"
-                    className="flex items-center gap-2"
-                  >
-                    Server <FaGithub />
-                  </Link>
-                </div>
+                                  </div>
                 <Link
-                  to="https://summer-camp-f4931.web.app/"
+                  to="https://www.bongoshoes.com/"
                   target="_blank"
                   className="flex items-center gap-2"
                 >
@@ -100,46 +80,35 @@ interface,robust backend,and secure authentication for all.
               />
             </div>
             <div>
-              <h2 className="text-4xl font-bold mb-5">Safari Squad</h2>
+              <h2 className="text-4xl font-bold mb-5">The Chronify
+</h2>
               <p>
                 {" "}
-                This is a toy animals website allows users to explore,purchase, andsell toy cars.It offers a seamless browsing
-experience with a wide section of products.
+                TheChronify is a modern digital news platform that publishes technology, global affairs, business, and trending news with a focus on fast, accessible, and informative reporting for online readers.
+
               </p>
               <div className="mt-5 flex flex-wrap gap-5">
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  React
+                  Django 
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  React Router
+                  Django Templates
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  Firebase
+                   HTML
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  MongoDB
+                  CSS
                 </span>
                 <span className="bg-[#16203B] rounded-md hover:text-gray-100 transition px-5 py-3 text-lg font-semibold">
-                  TailwindCSS
+                Bootstrap
                 </span>
               </div>
 
               <div className="mt-5 flex gap-20 items-center text-xl ">
                 <div className="flex items-center gap-2">
-                  <Link
-                    to="https://github.com/musfiquzzaman1999/marketplace-toy"
-                    target="_blank"
-                    className="flex items-center gap-2"
-                  >
-                    Client <FaGithub />
-                  </Link>{" "}
-                  <Link
-                    to="https://github.com/musfiquzzaman1999/marketplace-toy-server"
-                    target="_blank"
-                    className="flex items-center gap-2"
-                  >
-                    Server <FaGithub />
-                  </Link>
+                  
+                
                 </div>
                 <Link
                   to="https://toy-market-place-26dab.web.app/"
@@ -210,7 +179,7 @@ recipes,but to access and view any recipe,they need to go through an authenticat
                   </Link>
                 </div>
                 <Link
-                  to="https://github.com/musfiquzzaman1999/chef-recipe-server"
+                  to="https://chef-recipe-hunter-server.web.app/"
                   target="_blank"
                   className="flex items-center gap-2"
                 >

@@ -64,31 +64,17 @@ I've been working on some thrilling projects recently, demonstrating my abilitie
                 />
               </div>
               <div className="text-gray-200">
-                <h2 className="text-3xl font-bold mb-3">ExtraLearn</h2>
+                <h2 className="text-3xl font-bold mb-3">Bongo Shoes</h2>
                 <p className="text-gray-300">
-                ExtraLearn,the inclusive online learning platform,offers accessible education with a user friendly
-interface,robust backend,and secure authentication for all.
+                BongoShoes is an online footwear brand offering stylish, comfortable, and affordable shoes for men and women. The platform features a wide range of casual and sporty footwear designed for everyday wear, combining modern design with comfort and durability.
                 </p>
                 <div className="mt-5">
                   <div className="flex justify-between gap-5">
                     <div className="flex items-center gap-2">
-                      <Link
-                        to="https://github.com/musfiquzzaman1999/Summer-Camp1"
-                        target="_blank"
-                        className="flex items-center gap-2"
-                      >
-                        Client <FaGithub />
-                      </Link>{" "}
-                      <Link
-                        to="https://github.com/musfiquzzaman1999/Summer-Camp-server1"
-                        target="_blank"
-                        className="flex items-center gap-2"
-                      >
-                        Server <FaGithub />
-                      </Link>
+                     
                     </div>
                     <Link
-                      to="https://summer-camp-f4931.web.app/"
+                      to="https://www.bongoshoes.com/"
                       target="_blank"
                       className="flex items-center gap-2"
                     >
@@ -110,31 +96,17 @@ interface,robust backend,and secure authentication for all.
                 />
               </div>
               <div className="text-gray-200">
-                <h2 className="text-3xl font-bold mb-3">Safari Squad</h2>
+                <h2 className="text-3xl font-bold mb-3">The Chronify</h2>
                 <p className="text-gray-300">
-                This is a toy animals website allows users to explore,purchase, andsell toy cars.It offers a seamless browsing
-experience with a wide section of products.
+                TheChronify is a modern digital news platform that publishes technology, global affairs, business, and trending news with a focus on fast, accessible, and informative reporting for online readers.
                 </p>
                 <div className="mt-5">
                   <div className="flex justify-between gap-5">
                     <div className="flex items-center gap-2">
-                      <Link
-                        to="https://github.com/musfiquzzaman1999/marketplace-toy"
-                        target="_blank"
-                        className="flex items-center gap-2"
-                      >
-                        Client <FaGithub />
-                      </Link>{" "}
-                      <Link
-                        to="https://github.com/musfiquzzaman1999/marketplace-toy-server"
-                        target="_blank"
-                        className="flex items-center gap-2"
-                      >
-                        Server <FaGithub />
-                      </Link>
+                     
                     </div>
                     <Link
-                      to="https://toy-market-place-26dab.web.app/"
+                      to="https://thechronify.com/"
                       target="_blank"
                       className="flex items-center gap-2"
                     >
@@ -189,6 +161,7 @@ recipes,but to access and view any recipe,they need to go through an authenticat
                 </div>
               </div>
             </motion.div>
+           
           </div>
         </div>
       </Container>
